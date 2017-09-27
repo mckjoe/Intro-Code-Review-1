@@ -1,0 +1,26 @@
+#aboutMe {
+  border: 5px solid green;
+  padding: 15px;
+  margin: 15px;
+}
+
+#education {
+  font-family: serif;
+}
+
+.myClass {
+  border: 5px solid salmon;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.myQuote {
+  float: right;
+}
+
+.colory {
+  color: blue;
+  font-style: italic;
+}
