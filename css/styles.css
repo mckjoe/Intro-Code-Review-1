@@ -1,7 +1,8 @@
 #aboutMe {
-  border: 5px solid green;
+  border: 5px solid #ff9966;
   padding: 15px;
   margin: 15px;
+  background-color: #ffffb3
 }
 
 #education {
@@ -9,7 +10,10 @@
 }
 
 .myClass {
-  border: 5px solid salmon;
+  font-style: italic;
+  border: 5px solid #ff9966;
+  padding: 10px;
+  background-color: #e6f2ff
 }
 
 .jumbotron {
@@ -21,6 +25,26 @@
 }
 
 .colory {
-  color: blue;
+  color: #33ccff;
   font-style: italic;
+}
+
+.panel {
+  border: 5px solid #ff9966;
+}
+
+.panel-title {
+  color: #ff9966
+}
+
+.panel-body {
+  background-color: #ffffb3
+}
+
+.jumbotron h1 {
+  color: #ff9966;
+}
+
+.jumbotron p {
+  color:  #ff9966;
 }
