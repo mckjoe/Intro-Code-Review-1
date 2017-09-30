@@ -9,6 +9,12 @@
   font-family: serif;
 }
 
+#fake-link {
+  color: blue;
+  font-size: 12px;
+  text-decoration: underline;
+}
+
 .myClass {
   font-style: italic;
   border: 5px solid #ff9966;
