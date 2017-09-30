@@ -28,6 +28,10 @@ _If there are any problems or bugs with the page, please dont hesitate to call a
 
 _This page was made and designed by me using HTML and CSS.  Soon we will have assignments using JS and i'll be able to add functionality to the sign in form and I'll be able to do more.  Thank you for your patience._
 
+## Link to github pages
+
+_https://mckjoe.github.io/code-review-1/_
+
 ### License
 
 _Basically, use at your own risk.  The page may or may not upload a virus directly to your system.  It might even be too late now.  This message will Self destruct._
