@@ -15,6 +15,12 @@
   text-decoration: underline;
 }
 
+#fit {
+    max-width: 100%;
+    max-height: 100vh;
+    height: auto;
+}
+
 .myClass {
   font-style: italic;
   border: 5px solid #ff9966;
